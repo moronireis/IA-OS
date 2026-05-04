@@ -1,147 +1,147 @@
 ---
 title: O que Temos Hoje
-description: Inventario completo de todos os componentes construidos no sistema IA-OS
+description: Inventário completo de todos os componentes construídos no sistema IA-OS
 ---
 
 # O que Temos Hoje
 
-Inventario completo de tudo que foi construido na stack IA-OS, organizado por tipo de componente.
+Inventário completo de tudo que foi construído na stack IA-OS, organizado por tipo de componente.
 
 ## Knowledge Base — 28 Documentos
 
-### Dominio: Lancamentos
+### Domínio: Lançamentos
 
-| # | Documento | Conteudo |
+| # | Documento | Conteúdo |
 |---|---|---|
-| 1 | Formula de Lancamento — Visao Geral | Metodologia completa da FL, fases, tipos de lancamento |
-| 2 | Lancamento Semente | Estrategia para validar oferta com audiencia minima |
-| 3 | Lancamento Classico | Estrutura completa do lancamento com CPLs e abertura de carrinho |
-| 4 | Lancamento Relampago | Lancamento rapido para base existente |
-| 5 | Lancamento Passariano | Modelo de lancamento perpétuo/escalado |
-| 6 | Estrutura de CPLs | Conteudo Pre-Lancamento — scripts e frameworks |
-| 7 | Funis de Lancamento | Arquitetura de paginas, emails e automacoes |
-| 8 | SNA — Metodologia | Sistema de lancamento complementar |
-| 9 | BML — Metodologia | Big Money Launch — metodologia de lancamentos grandes |
-| 10 | Metricas de Lancamento | KPIs, benchmarks e indicadores de sucesso |
+| 1 | Fórmula de Lançamento — Visão Geral | Metodologia completa da FL, fases, tipos de lançamento |
+| 2 | Lançamento Semente | Estratégia para validar oferta com audiência mínima |
+| 3 | Lançamento Clássico | Estrutura completa do lançamento com CPLs e abertura de carrinho |
+| 4 | Lançamento Relâmpago | Lançamento rápido para base existente |
+| 5 | Lançamento Passariano | Modelo de lançamento perpétuo/escalado |
+| 6 | Estrutura de CPLs | Conteúdo Pré-Lançamento — scripts e frameworks |
+| 7 | Funis de Lançamento | Arquitetura de páginas, emails e automações |
+| 8 | SNA — Metodologia | Sistema de lançamento complementar |
+| 9 | BML — Metodologia | Big Money Launch — metodologia de lançamentos grandes |
+| 10 | Métricas de Lançamento | KPIs, benchmarks e indicadores de sucesso |
 
-### Dominio: High-Ticket (FHT)
+### Domínio: High-Ticket (FHT)
 
-| # | Documento | Conteudo |
+| # | Documento | Conteúdo |
 |---|---|---|
-| 11 | FHT — Fundamentos | Filosofia e principios de vendas high-ticket |
-| 12 | Processo Comercial | Pipeline de vendas: qualificacao → aplicacao → call → fechamento |
+| 11 | FHT — Fundamentos | Filosofia e princípios de vendas high-ticket |
+| 12 | Processo Comercial | Pipeline de vendas: qualificação → aplicação → call → fechamento |
 | 13 | Script de Vendas | Roteiro completo para calls de vendas high-ticket |
-| 14 | Objecoes e Respostas | Banco de objecoes com contra-argumentos estruturados |
-| 15 | Qualificacao de Leads | Criterios e frameworks para qualificar aplicacoes |
-| 16 | Metricas High-Ticket | CAC, LTV, taxa de comparecimento, taxa de fechamento |
+| 14 | Objeções e Respostas | Banco de objeções com contra-argumentos estruturados |
+| 15 | Qualificação de Leads | Critérios e frameworks para qualificar aplicações |
+| 16 | Métricas High-Ticket | CAC, LTV, taxa de comparecimento, taxa de fechamento |
 
-### Dominio: Trafego Pago (Sobral)
+### Domínio: Tráfego Pago (Sobral)
 
-| # | Documento | Conteudo |
+| # | Documento | Conteúdo |
 |---|---|---|
-| 17 | Fundamentos de Trafego | Conceitos base, plataformas, tipos de campanha |
-| 18 | Meta Ads — Estrutura | Campanhas, conjuntos, anuncios no ecossistema Meta |
-| 19 | Audiencias e Segmentacao | Lookalike, custom audiences, interesses, exclusoes |
+| 17 | Fundamentos de Tráfego | Conceitos base, plataformas, tipos de campanha |
+| 18 | Meta Ads — Estrutura | Campanhas, conjuntos, anúncios no ecossistema Meta |
+| 19 | Audiências e Segmentação | Lookalike, custom audiences, interesses, exclusões |
 | 20 | Criativos para Ads | Framework Andromeda — 9 tipos de criativo |
-| 21 | Otimizacao e Escala | Regras de otimizacao, quando escalar, quando pausar |
-| 22 | Metricas de Trafego | CPM, CPC, CTR, CPL, CPA, ROAS — benchmarks por nicho |
+| 21 | Otimização e Escala | Regras de otimização, quando escalar, quando pausar |
+| 22 | Métricas de Tráfego | CPM, CPC, CTR, CPL, CPA, ROAS — benchmarks por nicho |
 
-### Dominio: Copy e Conteudo
+### Domínio: Copy e Conteúdo
 
-| # | Documento | Conteudo |
+| # | Documento | Conteúdo |
 |---|---|---|
-| 23 | Frameworks de Copy | AIDA, PAS, 4Ps, FAB e outros frameworks de persuasao |
-| 24 | Headlines e Hooks | Estruturas de titulos e ganchos que convertem |
-| 25 | Sequencias de Email | Templates de sequencias para lancamento e nurturing |
-| 26 | Landing Pages | Framework de 11 secoes para paginas de alta conversao |
+| 23 | Frameworks de Copy | AIDA, PAS, 4Ps, FAB e outros frameworks de persuasão |
+| 24 | Headlines e Hooks | Estruturas de títulos e ganchos que convertem |
+| 25 | Sequências de Email | Templates de sequências para lançamento e nurturing |
+| 26 | Landing Pages | Framework de 11 seções para páginas de alta conversão |
 
-### Dominio: IA e Automacao
+### Domínio: IA e Automação
 
-| # | Documento | Conteudo |
+| # | Documento | Conteúdo |
 |---|---|---|
 | 27 | Stack de Ferramentas | Ferramentas de IA para marketing (Lovable, Make, GHL) |
-| 28 | Automacoes de Marketing | Fluxos automatizados com IA para funis e lancamentos |
+| 28 | Automações de Marketing | Fluxos automatizados com IA para funis e lançamentos |
 
 ---
 
 ## Skills — 6 Comandos
 
-Cada skill e um workflow estruturado acionado por comando slash:
+Cada skill é um workflow estruturado acionado por comando slash:
 
 ### `/lancamento`
-**Dominio:** Lancamentos
-**Funcao:** Guia passo a passo para planejar e executar um lancamento completo. Pergunta tipo de lancamento, produto, audiencia e gera plano com timeline, CPLs, emails e metricas-alvo.
+**Domínio:** Lançamentos
+**Função:** Guia passo a passo para planejar e executar um lançamento completo. Pergunta tipo de lançamento, produto, audiência e gera plano com timeline, CPLs, emails e métricas-alvo.
 
 ### `/high-ticket`
-**Dominio:** Vendas High-Ticket
-**Funcao:** Estrutura processo comercial completo — da geracao de leads ate o fechamento. Gera scripts de vendas, qualificacao de aplicacoes e sequencias de follow-up.
+**Domínio:** Vendas High-Ticket
+**Função:** Estrutura processo comercial completo — da geração de leads até o fechamento. Gera scripts de vendas, qualificação de aplicações e sequências de follow-up.
 
 ### `/trafego`
-**Dominio:** Trafego Pago
-**Funcao:** Cria estrategia de trafego com base no objetivo (lancamento, perpetuo, captacao). Define estrutura de campanhas, orcamento, segmentacao e criativos.
+**Domínio:** Tráfego Pago
+**Função:** Cria estratégia de tráfego com base no objetivo (lançamento, perpétuo, captação). Define estrutura de campanhas, orçamento, segmentação e criativos.
 
 ### `/copy`
-**Dominio:** Copy e Conteudo
-**Funcao:** Gera copy para qualquer peca — emails, anuncios, landing pages, scripts de video. Usa frameworks da knowledge base e adapta ao avatar informado.
+**Domínio:** Copy e Conteúdo
+**Função:** Gera copy para qualquer peça — emails, anúncios, landing pages, scripts de vídeo. Usa frameworks da knowledge base e adapta ao avatar informado.
 
 ### `/funil`
-**Dominio:** Transversal
-**Funcao:** Desenha funil completo de marketing — da captacao ao pos-venda. Integra trafego, copy, automacoes e metricas esperadas por etapa.
+**Domínio:** Transversal
+**Função:** Desenha funil completo de marketing — da captação ao pós-venda. Integra tráfego, copy, automações e métricas esperadas por etapa.
 
 ### `/escala`
-**Dominio:** Transversal
-**Funcao:** Analisa operacao atual e cria plano de escala. Avalia gargalos, sugere otimizacoes e projeta cenarios de crescimento com base nos benchmarks.
+**Domínio:** Transversal
+**Função:** Analisa operação atual e cria plano de escala. Avalia gargalos, sugere otimizações e projeta cenários de crescimento com base nos benchmarks.
 
 ---
 
 ## Agentes — 5 Especialistas
 
-Cada agente tem dominio definido, base de conhecimento propria e personalidade:
+Cada agente tem domínio definido, base de conhecimento própria e personalidade:
 
 ### `estrategista-lancamento`
-- **Papel:** Estrategista senior de lancamentos digitais
-- **Base:** Documentos FL, SNA, BML, metricas de lancamento
-- **Quando acionar:** Planejamento estrategico de lancamentos, decisoes de tipo de lancamento, cronogramas
+- **Papel:** Estrategista sênior de lançamentos digitais
+- **Base:** Documentos FL, SNA, BML, métricas de lançamento
+- **Quando acionar:** Planejamento estratégico de lançamentos, decisões de tipo de lançamento, cronogramas
 
 ### `gestor-trafego`
-- **Papel:** Gestor de trafego especializado em performance
-- **Base:** Documentos Sobral, metricas de trafego, criativos
-- **Quando acionar:** Estrategia de campanhas, otimizacao de ads, analise de metricas de trafego
+- **Papel:** Gestor de tráfego especializado em performance
+- **Base:** Documentos Sobral, métricas de tráfego, criativos
+- **Quando acionar:** Estratégia de campanhas, otimização de ads, análise de métricas de tráfego
 
 ### `closer-high-ticket`
 - **Papel:** Closer de vendas de alto valor
-- **Base:** Documentos FHT, scripts de vendas, objecoes
-- **Quando acionar:** Estruturacao de calls de vendas, tratamento de objecoes, processo comercial
+- **Base:** Documentos FHT, scripts de vendas, objeções
+- **Quando acionar:** Estruturação de calls de vendas, tratamento de objeções, processo comercial
 
 ### `copywriter-lancamento`
-- **Papel:** Copywriter especializado em lancamentos e vendas
-- **Base:** Documentos de copy, frameworks de persuasao, sequencias de email
-- **Quando acionar:** Criacao de textos persuasivos, emails de lancamento, scripts de CPL
+- **Papel:** Copywriter especializado em lançamentos e vendas
+- **Base:** Documentos de copy, frameworks de persuasão, sequências de email
+- **Quando acionar:** Criação de textos persuasivos, emails de lançamento, scripts de CPL
 
 ### `produtor-conteudo`
-- **Papel:** Produtor de conteudo estrategico
-- **Base:** Documentos de conteudo, headlines, hooks, IA
-- **Quando acionar:** Calendario editorial, estrategia de conteudo, producao de materiais
+- **Papel:** Produtor de conteúdo estratégico
+- **Base:** Documentos de conteúdo, headlines, hooks, IA
+- **Quando acionar:** Calendário editorial, estratégia de conteúdo, produção de materiais
 
 ---
 
 ## Orquestrador — CLAUDE.md
 
-O arquivo `CLAUDE.md` na raiz do projeto funciona como o "cerebro" do sistema:
+O arquivo `CLAUDE.md` na raiz do projeto funciona como o "cérebro" do sistema:
 
-- **Vocabulario do mercado** — Glossario com termos de marketing digital brasileiro
-- **Benchmarks de referencia** — Metricas-alvo por tipo de campanha e nicho
-- **Regras de roteamento** — Logica de qual knowledge base consultar por tipo de pergunta
-- **Instrucoes de comportamento** — Tom, estilo e formato das respostas
-- **Mapa de arquivos** — Indice de todos os documentos da knowledge base
+- **Vocabulário do mercado** — Glossário com termos de marketing digital brasileiro
+- **Benchmarks de referência** — Métricas-alvo por tipo de campanha e nicho
+- **Regras de roteamento** — Lógica de qual knowledge base consultar por tipo de pergunta
+- **Instruções de comportamento** — Tom, estilo e formato das respostas
+- **Mapa de arquivos** — Índice de todos os documentos da knowledge base
 
 ---
 
-## Sistema de Memoria
+## Sistema de Memória
 
-O sistema de memoria esta configurado para:
+O sistema de memória está configurado para:
 
-- Armazenar preferencias do usuario (nicho, produto, avatar)
-- Registrar decisoes tomadas em sessoes anteriores
-- Manter historico de metricas informadas pelo usuario
-- Criar feedback loops para melhorar recomendacoes ao longo do tempo
+- Armazenar preferências do usuário (nicho, produto, avatar)
+- Registrar decisões tomadas em sessões anteriores
+- Manter histórico de métricas informadas pelo usuário
+- Criar feedback loops para melhorar recomendações ao longo do tempo

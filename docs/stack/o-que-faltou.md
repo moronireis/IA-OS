@@ -1,106 +1,106 @@
 ---
 title: O que Ficou Faltando
-description: Avaliacao honesta dos gaps e limitacoes do processamento de materiais no IA-OS
+description: Avaliação honesta dos gaps e limitações do processamento de materiais no IA-OS
 ---
 
 # O que Ficou Faltando
 
-Uma avaliacao transparente do que nao foi possivel processar completamente durante a construcao da knowledge base, e por que.
+Uma avaliação transparente do que não foi possível processar completamente durante a construção da knowledge base, e por quê.
 
-## A) Arquivos que Nao Puderam Ser Totalmente Processados
+## A) Arquivos que Não Puderam Ser Totalmente Processados
 
 ### PDFs Grandes do Sobral
-- **Modulo 1** (30MB, 117 paginas) — Apenas parcialmente lido. Muito conteudo esta em formato visual de slides, onde o texto sozinho nao captura a informacao completa.
-- **Modulo 2** (351MB, 488 paginas) — Arquivo extremamente pesado. Leitura parcial realizada, mas a maior parte do conteudo sao screenshots de Ads Manager, diagramas de funil e exemplos visuais que nao se convertem bem para texto.
+- **Módulo 1** (30MB, 117 páginas) — Apenas parcialmente lido. Muito conteúdo está em formato visual de slides, onde o texto sozinho não captura a informação completa.
+- **Módulo 2** (351MB, 488 páginas) — Arquivo extremamente pesado. Leitura parcial realizada, mas a maior parte do conteúdo são screenshots de Ads Manager, diagramas de funil e exemplos visuais que não se convertem bem para texto.
 
-### Arquivos .docx Binarios
-- Alguns documentos do FHT (Fator High Ticket) estavam em formato .docx binario que nao pode ser parseado completamente pela ferramenta de leitura de arquivos.
+### Arquivos .docx Binários
+- Alguns documentos do FHT (Fator High Ticket) estavam em formato .docx binário que não pode ser parseado completamente pela ferramenta de leitura de arquivos.
 
-### PDFs da Formula de Lancamento
-- **MATERIAL_FASE_1.pdf** (14MB) — Apenas metadados foram capturados. O conteudo principal esta em formato visual.
-- **WORKBOOK_FASE_2.pdf** — Material de exercicios praticos com formato visual/interativo.
-- **MATERIAL_FASE_3-6.pdf** — Conteudo de multiplas fases em formato de slides/exercicios visuais.
+### PDFs da Fórmula de Lançamento
+- **MATERIAL_FASE_1.pdf** (14MB) — Apenas metadados foram capturados. O conteúdo principal está em formato visual.
+- **WORKBOOK_FASE_2.pdf** — Material de exercícios práticos com formato visual/interativo.
+- **MATERIAL_FASE_3-6.pdf** — Conteúdo de múltiplas fases em formato de slides/exercícios visuais.
 
-### Pastas e Arquivos Inacessiveis
-- **Pasta "outros"** — Inacessivel por problema de encoding no nome do diretorio (caracteres especiais no path).
+### Pastas e Arquivos Inacessíveis
+- **Pasta "outros"** — Inacessível por problema de encoding no nome do diretório (caracteres especiais no path).
 - **Pasta "_transcricoes_extras"** — Estava vazia no momento do processamento.
 
-### Conteudo Visual Nao Processavel
-- **Pasta "BML"** — Contem 267 imagens e 1 video. Todo o conteudo e visual (provavelmente slides e quadros de treinamento capturados como imagem) e nao pode ser processado como texto.
-- **Apresentacoes PowerPoint do Acervo Puglia** — Dois arquivos (19MB + 24MB) com conteudo predominantemente visual.
+### Conteúdo Visual Não Processável
+- **Pasta "BML"** — Contém 267 imagens e 1 vídeo. Todo o conteúdo é visual (provavelmente slides e quadros de treinamento capturados como imagem) e não pode ser processado como texto.
+- **Apresentações PowerPoint do Acervo Puglia** — Dois arquivos (19MB + 24MB) com conteúdo predominantemente visual.
 
 ### Planilhas Excel
-- **FHT "Creditos Gerados por Entrega"** — Dados tabulares que nao foram convertidos para formato utilizavel.
-- **Planilhas SNA** (Lancamento Classico e Semente) — Templates de tracking com estrutura de dados que nao foi extraida.
+- **FHT "Créditos Gerados por Entrega"** — Dados tabulares que não foram convertidos para formato utilizável.
+- **Planilhas SNA** (Lançamento Clássico e Semente) — Templates de tracking com estrutura de dados que não foi extraída.
 
 ---
 
-## B) Conteudo que Existe mas Nao Foi Extraido
+## B) Conteúdo que Existe mas Não Foi Extraído
 
-Estes materiais existem nos arquivos originais, mas o conteudo especifico nao foi capturado na knowledge base:
+Estes materiais existem nos arquivos originais, mas o conteúdo específico não foi capturado na knowledge base:
 
 ### Detalhes Visuais dos Slides do Sobral
 - Diagramas de estrutura de campanhas
-- Fluxogramas de decisao de otimizacao
-- Screenshots reais do Ads Manager com configuracoes
-- Exemplos visuais de segmentacao de audiencia
-- Prints de dashboards com metricas reais
+- Fluxogramas de decisão de otimização
+- Screenshots reais do Ads Manager com configurações
+- Exemplos visuais de segmentação de audiência
+- Prints de dashboards com métricas reais
 
-### Exercicios Praticos da FL
-- Workbooks com exercicios de cada fase
+### Exercícios Práticos da FL
+- Workbooks com exercícios de cada fase
 - Templates de preenchimento para planejamento
-- Checklists visuais de execucao
-- Exercicios de definicao de avatar
+- Checklists visuais de execução
+- Exercícios de definição de avatar
 
 ### Templates Visuais de Criativos
-- Exemplos reais de anuncios que performaram
+- Exemplos reais de anúncios que performaram
 - Modelos visuais de criativos por tipo (Andromeda)
-- Antes/depois de otimizacoes visuais
+- Antes/depois de otimizações visuais
 
 ### Dados das Planilhas
-- Metricas historicas de lancamentos
+- Métricas históricas de lançamentos
 - Templates de tracking de campanhas
-- Modelos de projecao financeira
+- Modelos de projeção financeira
 - Dashboards de acompanhamento
 
-### Conteudo das Imagens BML
+### Conteúdo das Imagens BML
 - Provavelmente slides de treinamento
 - Quadros brancos com frameworks
 - Diagramas de processos
-- Anotacoes visuais de estrategia
+- Anotações visuais de estratégia
 
 ---
 
-## C) Limitacoes da Conversao para Texto
+## C) Limitações da Conversão para Texto
 
-Algumas categorias de conteudo perdem qualidade significativa quando convertidas de formato visual para texto puro:
+Algumas categorias de conteúdo perdem qualidade significativa quando convertidas de formato visual para texto puro:
 
 ### Frameworks Visuais
-Diagramas como funis de vendas, mapas mentais e fluxogramas sao muito mais ricos nos originais. A versao texto captura a logica, mas perde a clareza visual e as relacoes espaciais entre elementos.
+Diagramas como funis de vendas, mapas mentais e fluxogramas são muito mais ricos nos originais. A versão texto captura a lógica, mas perde a clareza visual e as relações espaciais entre elementos.
 
-### Screenshots de Configuracao
-Configuracoes de plataformas como Ads Manager, Business Manager e Pixel sao ensinadas via screenshots nos cursos. Essas instrucoes passo-a-passo visuais nao foram capturadas — apenas os conceitos por tras das configuracoes.
+### Screenshots de Configuração
+Configurações de plataformas como Ads Manager, Business Manager e Pixel são ensinadas via screenshots nos cursos. Essas instruções passo-a-passo visuais não foram capturadas — apenas os conceitos por trás das configurações.
 
 ### Diagramas de Funil
-Os funis de marketing sao apresentados como diagramas visuais nos materiais originais, mostrando fluxo, taxas de conversao por etapa e pontos de decisao. A versao texto descreve as etapas, mas perde a visao holistica do fluxo.
+Os funis de marketing são apresentados como diagramas visuais nos materiais originais, mostrando fluxo, taxas de conversão por etapa e pontos de decisão. A versão texto descreve as etapas, mas perde a visão holística do fluxo.
 
 ### Exemplos Reais de Ads
-Os cursos mostram anuncios reais como referencia. Esses exemplos visuais (imagens de ads, prints de resultados) nao estao na knowledge base — apenas as descricoes e frameworks por tras deles.
+Os cursos mostram anúncios reais como referência. Esses exemplos visuais (imagens de ads, prints de resultados) não estão na knowledge base — apenas as descrições e frameworks por trás deles.
 
 ---
 
-## Impacto Pratico
+## Impacto Prático
 
 ### O que funciona mesmo sem esses materiais
-- Frameworks e metodologias estao completos em texto
-- Benchmarks e metricas foram extraidos
-- Scripts de vendas e copy estao funcionais
-- Estruturas de campanha estao documentadas
-- Fluxos de lancamento estao mapeados
+- Frameworks e metodologias estão completos em texto
+- Benchmarks e métricas foram extraídos
+- Scripts de vendas e copy estão funcionais
+- Estruturas de campanha estão documentadas
+- Fluxos de lançamento estão mapeados
 
 ### O que ficaria melhor com esses materiais
-- Instrucoes de configuracao de plataforma seriam passo-a-passo
-- Exemplos visuais de criativos dariam referencia concreta
-- Exercicios praticos permitiriam workflows mais guiados
-- Dados das planilhas permitiriam simulacoes mais precisas
+- Instruções de configuração de plataforma seriam passo-a-passo
+- Exemplos visuais de criativos dariam referência concreta
+- Exercícios práticos permitiriam workflows mais guiados
+- Dados das planilhas permitiriam simulações mais precisas
 - Templates visuais completariam os frameworks textuais

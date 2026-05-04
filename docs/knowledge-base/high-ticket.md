@@ -1,23 +1,23 @@
 ---
 title: "02 - High-Ticket"
-description: "Documentacao do dominio de vendas high-ticket - SLG, sessoes 1a1, mentores e sistema completo de vendas"
+description: "Documentação do domínio de vendas high-ticket - SLG, sessões 1a1, mentores e sistema completo de vendas"
 ---
 
 # 02 - High-Ticket
 
-Este dominio reune **5 documentos** que cobrem todo o sistema de vendas high-ticket, desde o planejamento estrategico ate a operacao com mentores delegados e tratamento de objecoes.
+Este domínio reúne **5 documentos** que cobrem todo o sistema de vendas high-ticket, desde o planejamento estratégico até a operação com mentores delegados e tratamento de objeções.
 
 ---
 
-## Visao Geral dos Arquivos
+## Visão Geral dos Arquivos
 
 | Arquivo | Fonte / Autor | Foco Principal |
 |---------|---------------|----------------|
-| `fht-masterplan.md` | FHT | Planejamento estrategico de operacao high-ticket |
-| `sessao-1a1.md` | FHT | Framework de sessao individual de vendas |
-| `delegacao-mentores.md` | FHT | Operacao com mentores delegados |
+| `fht-masterplan.md` | FHT | Planejamento estratégico de operação high-ticket |
+| `sessao-1a1.md` | FHT | Framework de sessão individual de vendas |
+| `delegacao-mentores.md` | FHT | Operação com mentores delegados |
 | `full-sales-system.md` | FHT / Sales | Sistema completo de vendas em 10 trilhas |
-| `arvore-objecoes.md` | FHT / Sales | Framework de tratamento de objecoes |
+| `arvore-objecoes.md` | FHT / Sales | Framework de tratamento de objeções |
 
 ---
 
@@ -26,127 +26,127 @@ Este dominio reune **5 documentos** que cobrem todo o sistema de vendas high-tic
 **Arquivo:** `fht-masterplan.md`
 **Fonte:** FHT
 
-### Topicos Principais
-- Planejamento estrategico para operacao high-ticket
-- SLG (Sales Letter de Grupo): estrutura e execucao
-- Qualificacao de leads para high-ticket
-- Funis de captacao e aquecimento
+### Tópicos Principais
+- Planejamento estratégico para operação high-ticket
+- SLG (Sales Letter de Grupo): estrutura e execução
+- Qualificação de leads para high-ticket
+- Funis de captação e aquecimento
 - Modelagem financeira e metas
-- Transicao de lancamento para high-ticket
+- Transição de lançamento para high-ticket
 
-### Frameworks e Numeros
-- **SLG**: apresentacao de vendas para grupo qualificado (10-50 pessoas)
-- Funil: Captacao > Aplicacao > Qualificacao > SLG ou 1a1 > Fechamento
-- Taxa de qualificacao: 20-30% dos aplicantes
+### Frameworks e Números
+- **SLG**: apresentação de vendas para grupo qualificado (10-50 pessoas)
+- Funil: Captação > Aplicação > Qualificação > SLG ou 1a1 > Fechamento
+- Taxa de qualificação: 20-30% dos aplicantes
 - Taxa de fechamento SLG: 15-25%
 - Taxa de fechamento 1a1: 25-40%
-- Ticket medio: R$3.000 - R$12.000
+- Ticket médio: R$3.000 - R$12.000
 - Meta de faturamento: SLG semanal ou quinzenal
 
 ### Estrutura do SLG
-1. Abertura com conexao e autoridade (5 min)
-2. Conteudo de valor com virada de chave (30 min)
-3. Transicao para oferta (5 min)
-4. Apresentacao da oferta e stack (15 min)
-5. Tratamento de objecoes ao vivo (15 min)
+1. Abertura com conexão e autoridade (5 min)
+2. Conteúdo de valor com virada de chave (30 min)
+3. Transição para oferta (5 min)
+4. Apresentação da oferta e stack (15 min)
+5. Tratamento de objeções ao vivo (15 min)
 6. Fechamento com escassez real (10 min)
 
-### Relacao com Outros Documentos
-- SLG complementado pelo framework de objecoes em `arvore-objecoes.md`
-- Qualificacao detalhada em `sessao-1a1.md`
-- Operacao em escala com `delegacao-mentores.md`
+### Relação com Outros Documentos
+- SLG complementado pelo framework de objeções em `arvore-objecoes.md`
+- Qualificação detalhada em `sessao-1a1.md`
+- Operação em escala com `delegacao-mentores.md`
 - Sistema completo em `full-sales-system.md`
 
 ---
 
-## Sessao 1a1
+## Sessão 1a1
 
 **Arquivo:** `sessao-1a1.md`
 **Fonte:** FHT
 
-### Topicos Principais
-- Framework completo de sessao individual de vendas/diagnostico
-- Ferramentas de diagnostico e qualificacao
-- Roteiro estruturado para sessao de 45-60 minutos
+### Tópicos Principais
+- Framework completo de sessão individual de vendas/diagnóstico
+- Ferramentas de diagnóstico e qualificação
+- Roteiro estruturado para sessão de 45-60 minutos
 - Perfil e treinamento de mentores/closers
-- Metricas de performance por closer
-- Scripts de follow-up pos-sessao
+- Métricas de performance por closer
+- Scripts de follow-up pós-sessão
 
-### Framework da Sessao 1a1
-1. **Rapport** (5 min): Conexao genuina, pesquisa previa do lead
-2. **Situacao atual** (10 min): Onde o lead esta hoje, dores e frustracao
-3. **Situacao desejada** (10 min): Onde quer chegar, sonhos e metas
-4. **Gap** (5 min): Distancia entre atual e desejado
-5. **Solucao** (10 min): Como o programa preenche o gap
-6. **Oferta** (10 min): Apresentacao do investimento e condicoes
-7. **Fechamento** (10 min): Tratamento de objecoes e decisao
+### Framework da Sessão 1a1
+1. **Rapport** (5 min): Conexão genuína, pesquisa prévia do lead
+2. **Situação atual** (10 min): Onde o lead está hoje, dores e frustração
+3. **Situação desejada** (10 min): Onde quer chegar, sonhos e metas
+4. **Gap** (5 min): Distância entre atual e desejado
+5. **Solução** (10 min): Como o programa preenche o gap
+6. **Oferta** (10 min): Apresentação do investimento e condições
+7. **Fechamento** (10 min): Tratamento de objeções e decisão
 
-### Ferramentas de Diagnostico
-- Formulario de aplicacao pre-sessao (10-15 perguntas)
-- Checklist de qualificacao BANT (Budget, Authority, Need, Timeline)
-- Score de qualificacao: 1-10 (minimo 7 para sessao)
-- CRM com historico de interacoes
+### Ferramentas de Diagnóstico
+- Formulário de aplicação pré-sessão (10-15 perguntas)
+- Checklist de qualificação BANT (Budget, Authority, Need, Timeline)
+- Score de qualificação: 1-10 (mínimo 7 para sessão)
+- CRM com histórico de interações
 
-### Metricas por Mentor/Closer
-| Metrica | Meta |
+### Métricas por Mentor/Closer
+| Métrica | Meta |
 |---------|------|
-| Sessoes/semana | 8-15 |
+| Sessões/semana | 8-15 |
 | Taxa de show | > 80% |
 | Taxa de fechamento | 25-40% |
-| Ticket medio | Conforme oferta |
+| Ticket médio | Conforme oferta |
 | NPS do lead | > 8.0 |
 
-### Relacao com Outros Documentos
-- Objecoes tratadas com framework de `arvore-objecoes.md`
+### Relação com Outros Documentos
+- Objeções tratadas com framework de `arvore-objecoes.md`
 - Mentores gerenciados conforme `delegacao-mentores.md`
 - Parte do fluxo completo em `full-sales-system.md`
-- Qualificacao do avatar baseada em `nicho-avatar-roma.md` (dominio 01)
+- Qualificação do avatar baseada em `nicho-avatar-roma.md` (domínio 01)
 
 ---
 
-## Delegacao para Mentores
+## Delegação para Mentores
 
 **Arquivo:** `delegacao-mentores.md`
 **Fonte:** FHT
 
-### Topicos Principais
-- Como delegar sessoes de vendas para mentores
-- 5 fases da delegacao
-- Treinamento e certificacao de mentores
+### Tópicos Principais
+- Como delegar sessões de vendas para mentores
+- 5 fases da delegação
+- Treinamento e certificação de mentores
 - Monitoramento de qualidade via NPS
-- Escala da operacao com multiplos mentores
-- Remuneracao e incentivos
+- Escala da operação com múltiplos mentores
+- Remuneração e incentivos
 
-### As 5 Fases da Delegacao
+### As 5 Fases da Delegação
 
-| Fase | Nome | Descricao |
+| Fase | Nome | Descrição |
 |------|------|-----------|
-| 1 | **Observacao** | Mentor assiste sessoes do expert (2-4 semanas) |
+| 1 | **Observação** | Mentor assiste sessões do expert (2-4 semanas) |
 | 2 | **Co-pilotagem** | Mentor conduz com expert presente (2-4 semanas) |
-| 3 | **Supervisionada** | Mentor conduz sozinho, sessoes gravadas e revisadas (4 semanas) |
-| 4 | **Autonoma** | Mentor opera independente com metricas (continuo) |
-| 5 | **Lideranca** | Mentor treina novos mentores (quando aplicavel) |
+| 3 | **Supervisionada** | Mentor conduz sozinho, sessões gravadas e revisadas (4 semanas) |
+| 4 | **Autônoma** | Mentor opera independente com métricas (contínuo) |
+| 5 | **Liderança** | Mentor treina novos mentores (quando aplicável) |
 
 ### Sistema de NPS
-- NPS coletado apos cada sessao (lead e mentor)
-- Meta minima: **NPS > 8.5**
+- NPS coletado após cada sessão (lead e mentor)
+- Meta mínima: **NPS > 8.5**
 - Abaixo de 7.0: mentor entra em retreinamento
 - Abaixo de 6.0 por 2 semanas: desligamento
-- Revisao semanal com lider de vendas
-- Calibracao mensal de scripts e abordagens
+- Revisão semanal com líder de vendas
+- Calibração mensal de scripts e abordagens
 
-### Frameworks e Numeros
-- Capacidade maxima por mentor: 12-15 sessoes/semana
-- Tempo de formacao: 8-12 semanas ate autonomia
-- Remuneracao: fixo + comissao (8-15% do ticket)
-- Ratio ideal: 1 lider para cada 5 mentores
-- Reuniao de calibracao: 1x por semana, 60 minutos
+### Frameworks e Números
+- Capacidade máxima por mentor: 12-15 sessões/semana
+- Tempo de formação: 8-12 semanas até autonomia
+- Remuneração: fixo + comissão (8-15% do ticket)
+- Ratio ideal: 1 líder para cada 5 mentores
+- Reunião de calibração: 1x por semana, 60 minutos
 
-### Relacao com Outros Documentos
-- Framework de sessao em `sessao-1a1.md`
-- Tratamento de objecoes em `arvore-objecoes.md`
+### Relação com Outros Documentos
+- Framework de sessão em `sessao-1a1.md`
+- Tratamento de objeções em `arvore-objecoes.md`
 - Parte do sistema em `full-sales-system.md`
-- IA aplicada a vendas em `ia-calls-vendas.md` (dominio 05)
+- IA aplicada a vendas em `ia-calls-vendas.md` (domínio 05)
 
 ---
 
@@ -155,91 +155,91 @@ Este dominio reune **5 documentos** que cobrem todo o sistema de vendas high-tic
 **Arquivo:** `full-sales-system.md`
 **Fonte:** FHT / Sales
 
-### Topicos Principais
+### Tópicos Principais
 - Sistema completo de vendas em 10 trilhas
-- Da captacao ao pos-venda
-- Integracoes entre marketing e vendas
-- Automacoes e processos
-- Metricas e dashboards
-- Escala da operacao comercial
+- Da captação ao pós-venda
+- Integrações entre marketing e vendas
+- Automações e processos
+- Métricas e dashboards
+- Escala da operação comercial
 
 ### As 10 Trilhas do Full Sales System
 
-| Trilha | Nome | Descricao |
+| Trilha | Nome | Descrição |
 |--------|------|-----------|
-| 1 | **Captacao** | Geracoes de leads qualificados via trafego e conteudo |
-| 2 | **Qualificacao** | Formularios, score e triagem de leads |
-| 3 | **Agendamento** | Booking de sessoes com confirmacao e lembrete |
-| 4 | **Pre-sessao** | Aquecimento do lead antes da sessao |
-| 5 | **Sessao** | Execucao da sessao 1a1 ou SLG |
-| 6 | **Follow-up** | Acompanhamento pos-sessao para indecisos |
+| 1 | **Captação** | Gerações de leads qualificados via tráfego e conteúdo |
+| 2 | **Qualificação** | Formulários, score e triagem de leads |
+| 3 | **Agendamento** | Booking de sessões com confirmação e lembrete |
+| 4 | **Pré-sessão** | Aquecimento do lead antes da sessão |
+| 5 | **Sessão** | Execução da sessão 1a1 ou SLG |
+| 6 | **Follow-up** | Acompanhamento pós-sessão para indecisos |
 | 7 | **Fechamento** | Contrato, pagamento e onboarding |
 | 8 | **Onboarding** | Primeiros 7 dias do cliente |
-| 9 | **Retencao** | Acompanhamento e NPS continuo |
-| 10 | **Recompra** | Upsell, cross-sell e indicacoes |
+| 9 | **Retenção** | Acompanhamento e NPS contínuo |
+| 10 | **Recompra** | Upsell, cross-sell e indicações |
 
-### Frameworks e Numeros
-- Funil completo: Lead > Aplicacao > Sessao > Fechamento > Cliente > Promotor
-- SLA entre marketing e vendas: lead qualificado respondido em ate 5 minutos
+### Frameworks e Números
+- Funil completo: Lead > Aplicação > Sessão > Fechamento > Cliente > Promotor
+- SLA entre marketing e vendas: lead qualificado respondido em até 5 minutos
 - Follow-up: 7 tentativas em 14 dias (multicanal)
 - Onboarding: 3 marcos nos primeiros 7 dias
 - Recompra: campanha a cada 90 dias para base
 
-### Relacao com Outros Documentos
+### Relação com Outros Documentos
 - Trilha 5 detalhada em `sessao-1a1.md`
 - Trilha 6 usa framework de `arvore-objecoes.md`
-- Trilhas 1-2 conectam com trafego (`sobral-meta-ads.md`, dominio 03)
-- Automacoes detalhadas em `ia-calls-vendas.md` (dominio 05)
+- Trilhas 1-2 conectam com tráfego (`sobral-meta-ads.md`, domínio 03)
+- Automações detalhadas em `ia-calls-vendas.md` (domínio 05)
 
 ---
 
-## Arvore de Objecoes
+## Árvore de Objeções
 
 **Arquivo:** `arvore-objecoes.md`
 **Fonte:** FHT / Sales
 
-### Topicos Principais
-- Framework dos 4 E's para tratamento de objecoes
-- Arvore completa de objecoes por categoria
-- Objecoes de metodo vs. objecoes de oferta
-- Scripts prontos para cada objecao
-- Quando a objecao e real vs. cortina de fumaca
-- Treinamento pratico de equipe
+### Tópicos Principais
+- Framework dos 4 E's para tratamento de objeções
+- Árvore completa de objeções por categoria
+- Objeções de método vs. objeções de oferta
+- Scripts prontos para cada objeção
+- Quando a objeção é real vs. cortina de fumaça
+- Treinamento prático de equipe
 
 ### Framework dos 4 E's
 
-| Etapa | Acao | Exemplo |
+| Etapa | Ação | Exemplo |
 |-------|------|---------|
 | **Escutar** | Ouvir completamente sem interromper | "Entendo, me conta mais sobre isso..." |
-| **Entender** | Validar e demonstrar empatia | "Faz total sentido voce pensar assim porque..." |
-| **Enquadrar** | Recontextualizar a objecao | "E se eu te mostrasse que justamente por isso..." |
-| **Encaminhar** | Direcionar para o proximo passo | "Entao, considerando tudo isso, vamos..." |
+| **Entender** | Validar e demonstrar empatia | "Faz total sentido você pensar assim porque..." |
+| **Enquadrar** | Recontextualizar a objeção | "E se eu te mostrasse que justamente por isso..." |
+| **Encaminhar** | Direcionar para o próximo passo | "Então, considerando tudo isso, vamos..." |
 
-### Categorias de Objecoes
+### Categorias de Objeções
 
-**Objecoes de Metodo** (sobre o caminho/solucao):
-- "Nao sei se isso funciona pra mim"
-- "Ja tentei algo parecido e nao deu certo"
-- "Meu nicho/situacao e diferente"
-- "Nao tenho tempo para implementar"
+**Objeções de Método** (sobre o caminho/solução):
+- "Não sei se isso funciona pra mim"
+- "Já tentei algo parecido e não deu certo"
+- "Meu nicho/situação é diferente"
+- "Não tenho tempo para implementar"
 - "Preciso pensar mais"
 
-**Objecoes de Oferta** (sobre preco/condicoes):
-- "Esta caro"
-- "Nao tenho dinheiro agora"
-- "Preciso falar com meu socio/conjuge"
-- "Vou esperar a proxima turma"
+**Objeções de Oferta** (sobre preço/condições):
+- "Está caro"
+- "Não tenho dinheiro agora"
+- "Preciso falar com meu sócio/cônjuge"
+- "Vou esperar a próxima turma"
 - "Tem garantia?"
 
-### Frameworks e Numeros
-- 80% das objecoes sao previssiveis e treinaveis
-- Objecao de preco: apenas 20% sao reais (80% sao cortina de fumaca)
-- Tempo ideal de silencio apos objecao: 3-5 segundos
-- Maximo de 2 re-enquadramentos por objecao
-- Se nao fechar apos 2 tentativas: follow-up em 48h
+### Frameworks e Números
+- 80% das objeções são previsíveis e treináveis
+- Objeção de preço: apenas 20% são reais (80% são cortina de fumaça)
+- Tempo ideal de silêncio após objeção: 3-5 segundos
+- Máximo de 2 re-enquadramentos por objeção
+- Se não fechar após 2 tentativas: follow-up em 48h
 
-### Relacao com Outros Documentos
+### Relação com Outros Documentos
 - Aplicado diretamente em `sessao-1a1.md`
 - Usado no SLG descrito em `fht-masterplan.md`
 - Treinamento de mentores em `delegacao-mentores.md`
-- Copy de objecoes alimenta `copy-criativos.md` (dominio 04)
+- Copy de objeções alimenta `copy-criativos.md` (domínio 04)

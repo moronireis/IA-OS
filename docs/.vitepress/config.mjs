@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     nav: [
-      { text: 'Inicio', link: '/' },
+      { text: 'Início', link: '/' },
       { text: 'Knowledge Base', link: '/knowledge-base/' },
       { text: 'Stack', link: '/stack/' },
       { text: 'Guias', link: '/guias/' }
@@ -17,12 +17,12 @@ export default defineConfig({
         {
           text: 'Knowledge Base',
           items: [
-            { text: 'Visao Geral', link: '/knowledge-base/' },
-            { text: '01 - Lancamentos', link: '/knowledge-base/lancamentos' },
+            { text: 'Visão Geral', link: '/knowledge-base/' },
+            { text: '01 - Lançamentos', link: '/knowledge-base/lancamentos' },
             { text: '02 - High Ticket', link: '/knowledge-base/high-ticket' },
-            { text: '03 - Trafego Pago', link: '/knowledge-base/trafego' },
-            { text: '04 - Conteudo & Copy', link: '/knowledge-base/conteudo-copy' },
-            { text: '05 - IA & Automacao', link: '/knowledge-base/ia-automacao' }
+            { text: '03 - Tráfego Pago', link: '/knowledge-base/trafego' },
+            { text: '04 - Conteúdo & Copy', link: '/knowledge-base/conteudo-copy' },
+            { text: '05 - IA & Automação', link: '/knowledge-base/ia-automacao' }
           ]
         }
       ],
@@ -30,10 +30,10 @@ export default defineConfig({
         {
           text: 'Stack & Arquitetura',
           items: [
-            { text: 'Visao Geral', link: '/stack/' },
+            { text: 'Visão Geral', link: '/stack/' },
             { text: 'O que Temos', link: '/stack/o-que-temos' },
             { text: 'O que Faltou', link: '/stack/o-que-faltou' },
-            { text: 'Recomendacoes', link: '/stack/recomendacoes' },
+            { text: 'Recomendações', link: '/stack/recomendacoes' },
             { text: 'Agentes & MCPs', link: '/stack/agentes-mcps' },
             { text: 'Comunidade & Repos', link: '/stack/comunidade' }
           ]
@@ -62,7 +62,7 @@ export default defineConfig({
     },
     outline: {
       level: [2, 3],
-      label: 'Nesta pagina'
+      label: 'Nesta página'
     }
   }
 })

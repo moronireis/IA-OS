@@ -11,37 +11,37 @@ Guia completo de componentes que podem ser adicionados ao IA-OS para expandir su
 
 ## Agentes Adicionais Sugeridos
 
-Alem dos 5 agentes ja construidos, estes especialistas cobririam gaps importantes:
+Além dos 5 agentes já construídos, estes especialistas cobririam gaps importantes:
 
 ### 1. `analista-metricas`
 - **Papel:** Analista de dados de performance de marketing
-- **O que faz:** Interpreta dashboards, analisa ROAS/CPL/CTR, identifica tendencias e sugere otimizacoes baseadas em dados
-- **Base de conhecimento:** Benchmarks de trafego, metricas de lancamento, metricas high-ticket
-- **Caso de uso:** "Meu CPL subiu 40% na ultima semana. O que pode estar acontecendo?"
+- **O que faz:** Interpreta dashboards, analisa ROAS/CPL/CTR, identifica tendências e sugere otimizações baseadas em dados
+- **Base de conhecimento:** Benchmarks de tráfego, métricas de lançamento, métricas high-ticket
+- **Caso de uso:** "Meu CPL subiu 40% na última semana. O que pode estar acontecendo?"
 
 ### 2. `designer-criativos`
 - **Papel:** Diretor de arte especializado em performance
 - **O que faz:** Gera briefings visuais detalhados para designers humanos ou ferramentas de IA generativa, seguindo o framework Andromeda (9 tipos de criativo)
-- **Base de conhecimento:** Framework Andromeda, melhores praticas de criativos, especificacoes por plataforma
-- **Caso de uso:** "Preciso de 5 variacoes de criativo para uma campanha de captacao no Instagram"
+- **Base de conhecimento:** Framework Andromeda, melhores práticas de criativos, especificações por plataforma
+- **Caso de uso:** "Preciso de 5 variações de criativo para uma campanha de captação no Instagram"
 
 ### 3. `email-marketer`
-- **Papel:** Especialista em email marketing e automacoes
-- **O que faz:** Cria sequencias completas de email para diferentes momentos (nurturing, lancamento, carrinho aberto, follow-up, pos-venda)
-- **Base de conhecimento:** Frameworks de copy, sequencias de email, benchmarks de email marketing
-- **Caso de uso:** "Crie a sequencia de 7 dias de abertura de carrinho para meu lancamento"
+- **Papel:** Especialista em email marketing e automações
+- **O que faz:** Cria sequências completas de email para diferentes momentos (nurturing, lançamento, carrinho aberto, follow-up, pós-venda)
+- **Base de conhecimento:** Frameworks de copy, sequências de email, benchmarks de email marketing
+- **Caso de uso:** "Crie a sequência de 7 dias de abertura de carrinho para meu lançamento"
 
 ### 4. `social-media-manager`
-- **Papel:** Gestor de presenca organica em redes sociais
-- **O que faz:** Planeja calendarios editoriais, define pilares de conteudo, sugere formatos (stories, lives, reels, posts) e cria roteiros
-- **Base de conhecimento:** Conteudo organico, hooks, headlines, frameworks de engajamento
-- **Caso de uso:** "Monte meu calendario de conteudo para os 15 dias de pre-lancamento"
+- **Papel:** Gestor de presença orgânica em redes sociais
+- **O que faz:** Planeja calendários editoriais, define pilares de conteúdo, sugere formatos (stories, lives, reels, posts) e cria roteiros
+- **Base de conhecimento:** Conteúdo orgânico, hooks, headlines, frameworks de engajamento
+- **Caso de uso:** "Monte meu calendário de conteúdo para os 15 dias de pré-lançamento"
 
 ### 5. `financial-planner`
-- **Papel:** Planejador financeiro de lancamentos e operacoes
-- **O que faz:** Projeta cenarios financeiros, calcula break-even, analisa LTV:CAC, modela escalabilidade e margem de lucro
-- **Base de conhecimento:** Benchmarks financeiros, metricas de lancamento, dados de mercado
-- **Caso de uso:** "Com R$50k de investimento em trafego e ticket de R$997, qual o cenario realista?"
+- **Papel:** Planejador financeiro de lançamentos e operações
+- **O que faz:** Projeta cenários financeiros, calcula break-even, analisa LTV:CAC, modela escalabilidade e margem de lucro
+- **Base de conhecimento:** Benchmarks financeiros, métricas de lançamento, dados de mercado
+- **Caso de uso:** "Com R$50k de investimento em tráfego e ticket de R$997, qual o cenário realista?"
 
 ---
 
@@ -49,33 +49,33 @@ Alem dos 5 agentes ja construidos, estes especialistas cobririam gaps importante
 
 Servidores MCP que conectam o Claude Code a ferramentas externas:
 
-### Produtividade e Gestao
+### Produtividade e Gestão
 
-| MCP Server | Funcao | Prioridade |
+| MCP Server | Função | Prioridade |
 |---|---|---|
-| **Google Sheets MCP** | Ler e escrever planilhas de metricas e tracking | Alta |
-| **Notion MCP** | Gestao de projetos, calendarios editoriais e wikis | Alta |
-| **Calendar MCP** | Agendar fases de lancamento e eventos | Media |
-| **Slack/Discord MCP** | Comunicacao com equipe e notificacoes | Media |
+| **Google Sheets MCP** | Ler e escrever planilhas de métricas e tracking | Alta |
+| **Notion MCP** | Gestão de projetos, calendários editoriais e wikis | Alta |
+| **Calendar MCP** | Agendar fases de lançamento e eventos | Média |
+| **Slack/Discord MCP** | Comunicação com equipe e notificações | Média |
 
 ### Marketing e Vendas
 
-| MCP Server | Funcao | Prioridade |
+| MCP Server | Função | Prioridade |
 |---|---|---|
-| **WhatsApp MCP** | Automacao de mensagens comerciais e follow-up | Alta |
-| **Canva MCP** | Criar criativos diretamente pelo Claude (ja disponivel) | Media |
-| **Gmail MCP** | Sequencias de email e comunicacao (ja disponivel) | Media |
+| **WhatsApp MCP** | Automação de mensagens comerciais e follow-up | Alta |
+| **Canva MCP** | Criar criativos diretamente pelo Claude (já disponível) | Média |
+| **Gmail MCP** | Sequências de email e comunicação (já disponível) | Média |
 
 ### Dados e Monitoramento
 
-| MCP Server | Funcao | Prioridade |
+| MCP Server | Função | Prioridade |
 |---|---|---|
 | **Browser/Puppeteer MCP** | Capturar dados de plataformas de ads e landing pages | Alta |
-| **Supabase/Database MCP** | Armazenar metricas historicas e dados de performance | Media |
+| **Supabase/Database MCP** | Armazenar métricas históricas e dados de performance | Média |
 
 ### Como Configurar
 
-Os MCP servers sao configurados no arquivo `settings.json` do Claude Code:
+Os MCP servers são configurados no arquivo `settings.json` do Claude Code:
 
 ```json
 {
@@ -99,80 +99,80 @@ Os MCP servers sao configurados no arquivo `settings.json` do Claude Code:
 
 ## Skills Adicionais
 
-Novas skills sugeridas para expandir os workflows disponiveis:
+Novas skills sugeridas para expandir os workflows disponíveis:
 
 ### `/diagnostico`
-**Objetivo:** Avaliar a situacao atual do negocio e recomendar o proximo passo estrategico.
-- Coleta informacoes sobre estagio, audiencia, produto e metricas
+**Objetivo:** Avaliar a situação atual do negócio e recomendar o próximo passo estratégico.
+- Coleta informações sobre estágio, audiência, produto e métricas
 - Compara com benchmarks da knowledge base
-- Gera recomendacao priorizada de acoes
+- Gera recomendação priorizada de ações
 
 ### `/calendario`
-**Objetivo:** Gerar calendario editorial ou de lancamento automaticamente.
-- Define pilares de conteudo por dominio
+**Objetivo:** Gerar calendário editorial ou de lançamento automaticamente.
+- Define pilares de conteúdo por domínio
 - Distribui formatos ao longo da semana
-- Para lancamentos: mapeia todas as fases com datas e marcos
+- Para lançamentos: mapeia todas as fases com datas e marcos
 
 ### `/simulador`
-**Objetivo:** Simular resultado financeiro de um lancamento.
-- Recebe: tamanho da lista, budget de trafego, ticket, tipo de lancamento
+**Objetivo:** Simular resultado financeiro de um lançamento.
+- Recebe: tamanho da lista, budget de tráfego, ticket, tipo de lançamento
 - Aplica benchmarks reais da knowledge base
-- Retorna cenarios com ROI projetado
+- Retorna cenários com ROI projetado
 
 ### `/criativos`
 **Objetivo:** Gerar briefing completo de criativos seguindo o framework Andromeda.
-- Identifica os 9 tipos de criativo aplicaveis
-- Gera briefing detalhado para cada variacao
-- Inclui copy, CTA e especificacoes tecnicas por plataforma
+- Identifica os 9 tipos de criativo aplicáveis
+- Gera briefing detalhado para cada variação
+- Inclui copy, CTA e especificações técnicas por plataforma
 
 ### `/email-sequence`
-**Objetivo:** Criar sequencia completa de emails para lancamento.
-- Define tipo: pre-lancamento, carrinho aberto, follow-up, pos-venda
+**Objetivo:** Criar sequência completa de emails para lançamento.
+- Define tipo: pré-lançamento, carrinho aberto, follow-up, pós-venda
 - Gera todos os emails com subject line, corpo e CTA
 - Inclui timing recomendado entre envios
 
 ### `/report`
-**Objetivo:** Gerar relatorio de performance de campanha.
-- Recebe metricas brutas (impressoes, cliques, leads, vendas, investimento)
+**Objetivo:** Gerar relatório de performance de campanha.
+- Recebe métricas brutas (impressões, cliques, leads, vendas, investimento)
 - Calcula KPIs derivados (CTR, CPL, CPA, ROAS)
-- Compara com benchmarks e gera diagnostico
+- Compara com benchmarks e gera diagnóstico
 
 ### `/objecao`
-**Objetivo:** Gerar resposta estruturada para objecao especifica.
-- Recebe a objecao do prospecto
-- Consulta banco de objecoes da knowledge base (FHT)
+**Objetivo:** Gerar resposta estruturada para objeção específica.
+- Recebe a objeção do prospecto
+- Consulta banco de objeções da knowledge base (FHT)
 - Gera contra-argumento usando framework de vendas
 
 ### `/avatar`
 **Objetivo:** Criar perfil completo de avatar/persona.
-- Coleta informacoes sobre nicho e produto
-- Gera perfil com: dados demograficos, dores, desejos, objecoes, linguagem
-- Produz avatar utilizavel em todos os outros workflows
+- Coleta informações sobre nicho e produto
+- Gera perfil com: dados demográficos, dores, desejos, objeções, linguagem
+- Produz avatar utilizável em todos os outros workflows
 
 ---
 
 ## Tools Recomendadas
 
-Ferramentas e extensoes que potencializam o sistema:
+Ferramentas e extensões que potencializam o sistema:
 
-### Processamento de Conteudo
+### Processamento de Conteúdo
 
-| Ferramenta | Funcao | Status |
+| Ferramenta | Função | Status |
 |---|---|---|
-| **Claude Vision** | Processar slides/PDFs visuais que ficaram faltando na knowledge base | Disponivel nativamente |
+| **Claude Vision** | Processar slides/PDFs visuais que ficaram faltando na knowledge base | Disponível nativamente |
 
-### Criacao de Conteudo
+### Criação de Conteúdo
 
-| Ferramenta | Funcao | Status |
+| Ferramenta | Função | Status |
 |---|---|---|
-| **Remotion Superpowers** | Criar videos de CPL/VSL automaticamente com IA | Ja disponivel como skill |
-| **Impeccable** | Criar landing pages seguindo o framework de 11 secoes | Ja disponivel como skill |
+| **Remotion Superpowers** | Criar vídeos de CPL/VSL automaticamente com IA | Já disponível como skill |
+| **Impeccable** | Criar landing pages seguindo o framework de 11 seções | Já disponível como skill |
 
 ### Publicidade
 
-| Ferramenta | Funcao | Status |
+| Ferramenta | Função | Status |
 |---|---|---|
-| **Claude Ads** | Auditar campanhas de ads usando os benchmarks da knowledge base | Ja disponivel como skill |
+| **Claude Ads** | Auditar campanhas de ads usando os benchmarks da knowledge base | Já disponível como skill |
 
 ### Como Estas Tools se Conectam ao IA-OS
 
@@ -198,21 +198,21 @@ Ferramentas e extensoes que potencializam o sistema:
 
 ---
 
-## Ordem de Implementacao Sugerida
+## Ordem de Implementação Sugerida
 
-**Fase 1 — Fundacao (Semana 1)**
-1. Skill `/diagnostico` — Valor imediato para qualquer usuario
+**Fase 1 — Fundação (Semana 1)**
+1. Skill `/diagnostico` — Valor imediato para qualquer usuário
 2. Skill `/avatar` — Base para todos os outros workflows
 3. Configurar Google Sheets MCP
 
-**Fase 2 — Producao (Semana 2-3)**
-4. Skill `/calendario` — Planejamento automatico
-5. Skill `/criativos` — Briefings de anuncios
-6. Skill `/email-sequence` — Sequencias prontas
+**Fase 2 — Produção (Semana 2-3)**
+4. Skill `/calendario` — Planejamento automático
+5. Skill `/criativos` — Briefings de anúncios
+6. Skill `/email-sequence` — Sequências prontas
 7. Agente `email-marketer`
 
-**Fase 3 — Inteligencia (Semana 4+)**
-8. Skill `/simulador` — Projecoes financeiras
-9. Skill `/report` — Analise de performance
+**Fase 3 — Inteligência (Semana 4+)**
+8. Skill `/simulador` — Projeções financeiras
+9. Skill `/report` — Análise de performance
 10. Agente `analista-metricas`
 11. Agente `financial-planner`
