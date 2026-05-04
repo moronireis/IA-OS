@@ -1,0 +1,26 @@
+{
+  "name": "projeto---system-os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moronireis/IA-OS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moronireis/IA-OS/issues"
+  },
+  "homepage": "https://github.com/moronireis/IA-OS#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
